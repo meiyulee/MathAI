@@ -1,0 +1,49 @@
+可以按照「數字人工智慧教學-free」的各個範例做下列資料分析。
+Example 1.
+X~Normal(mu=5,sigma=5), error~Normal(0,10),
+(1-1)Y=10+2*X+error，400對成對樣本類似的資料
+(不是example 1原有資料)存於lines_combined\資料\example_1_1.txt。
+(1-2)Y=10+2*X+error，400對成對樣本類似的資料
+(不是example 1原有資料)存於lines_combined\資料\example_1_2.txt。
+(1-3) 10+0.5*X*X+error，400對成對樣本類似的資料
+(不是example 1原有資料)存於lines_combined\資料\example_1_3.txt。
+(1-4) 10+0.5*X*X，400對成對樣本類似的資料
+(不是example 1原有資料)存於lines_combined\資料\example_1_4.txt。
+(1-5) Y=10+0.5*(X-5)*(X-5)+error, 400對成對樣本類似的資料
+(不是example 1原有資料)存於lines_combined\資料\example_1_5.txt。
+(1-6) Y=10+0.5*(X-5)*(X-5) 400對成對樣本類似的資料
+(不是example 1原有資料)存於lines_combined\資料\example_1_6.txt。
+(1-7) Y=10+2*|X|+0.5*(|X|^1.5)+0.1*(|X|^2)-0.01*(|X|^2.5)+error,
+400對成對樣本類似的資料(不是example 1原有資料)
+存於lines_combined\資料\example_1_7.txt。
+(1-8) Y=10+2*|X|+0.5*(|X|^1.5)+0.1*(|X|^2)-0.01*(|X|^2.5),
+400對成對樣本類似的資料(不是example 1原有資料)
+存於lines_combined\資料\example_1_8.txt。
+(1-9) Y=10+5*cos(0.1*X*pi) +error, if X<=5,
+Y=10+0.5*X*ln(X) +error, if X>5,
+400對成對樣本類似的資料(不是example 1原有資料)
+存於lines_combined\資料\example_1_9.txt。
+(1-10) Y=10+5*cos(0.1*X*pi), if X<=5,
+Y=10+0.5*X*ln(X) , if X>5,
+400對成對樣本類似的資料(不是example 1原有資料)
+存於lines_combined\資料\example_1_10.txt。
+(1-11) Y=10+5*cos(2*X*pi)*cos(2*X*pi)+|X| +error, if X<=0,
+Y=10+0.5*X*X-2*cos(X*pi) +error, if 0<X<=6,
+Y=10+X*sin(2*X*pi)-ln(X)*cos(X*pi) +error, if X>6,
+400對成對樣本類似的資料(不是example 1原有資料)
+存於lines_combined\資料\example_1_11.txt。
+(1-12) Y=10+5*cos(2*X*pi)*cos(2*X*pi)+|X|  if X<=0,
+Y=10+0.5*X*X-2*cos(X*pi) if 0<X<=6,
+Y=10+X*sin(2*X*pi)-ln(X)*cos(X*pi), if X>6,
+400對成對樣本類似的資料(不是example 1原有資料)
+存於lines_combined\資料\example_1_12.txt。
+(1-13) Y=10+|X-5|*cos(2*X*pi) +error, if X<=4,
+Y=10+|X-5|*sin(4*X*pi) +error, if 4<X<=6,
+Y=10+2*|X-5|*cos(X*pi)+error, if X>6,
+400對成對樣本類似的資料(不是example 1原有資料)
+存於lines_combined\資料\example_1_13.txt。
+(1-14) Y=10+|X-5|*cos(2*X*pi), if X<=4,
+Y=10+|X-5|*sin(4*X*pi), if 4<X<=6,
+Y=10+2*|X-5|*cos(X*pi),
+400對成對樣本類似的資料(不是example 1原有資料)
+存於lines_combined\資料\example_1_14.txt。

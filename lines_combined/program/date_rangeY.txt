@@ -1,0 +1,35 @@
+   ****  The minimum number of each line  ****
+
+
+
+
+
+
+   The minimum number of each line must more than or equal to 10,
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+   
+
