@@ -66,75 +66,7 @@
 
 ## MathGPT for numerical modelling (Java版) 的文件夾結構表
 
-
-C:\lines_combined
-|-- Lines_combined_理論與軟體說明.pptx
-|-- 下載軟體使用須知.txt
-|-- 人工智慧解決數字問題.pptx
-|-- 數字人工智慧教學-free.pdf
-|-- 數字人工智慧教學-free_數字資料說明.txt
-|-- exe
-    |-- batdata.exe
-    |-- begin.bat
-    |-- histogramX.class
-    |-- java.exe
-    |-- javacopy.exe
-    |-- joint_sample.class
-    |-- joint_sample_EEE.class
-    |-- Menuy.exe
-    |-- polygonX.class
-    |-- testjava_histogramX.exe
-    |-- testjava_polygonX.exe
-    |-- testjava_sample01.exe
-    |-- testjava_sample01_EEE.exe
-    |-- wang_histogramX.bat
-    |-- wang_joint_sample.bat
-    |-- wang_joint_sample_EEE.bat
-    |-- wang_polygonX.bat
-|-- program
-    |-- AA.bmp
-    |-- AA.ico
-    |-- AI_curvelinear_17.exe
-    |-- AI_curvelinear_17_1.exe
-    |-- AI_line_15.exe
-    |-- AI_nonlinear_16.exe
-    |-- date_format.txt
-    |-- date_R2.exe
-    |-- date_R2.txt
-    |-- date_rangeY.exe
-    |-- date_rangeY.txt
-    |-- MA_JAVA_mid_15.exe
-    |-- MA_JAVA_mid_16.exe
-    |-- MA_JAVA_mid_17.exe
-    |-- MA_JAVA_mid_17_1.exe
-    |-- program_Main.exe
-    |-- program_Main.txt
-    |-- read_textfiledate.exe
-    |-- student_table.txt
-|-- tep
-    |-- joint_sample00_image.jpg
-|-- 資料
-    |-- example_1_1.txt
-    |-- example_1_10.txt
-    |-- example_1_11.txt
-    |-- example_1_12.txt
-    |-- example_1_13.txt
-    |-- example_1_14.txt
-    |-- example_1_2.txt
-    |-- example_1_3.txt
-    |-- example_1_4.txt
-    |-- example_1_5.txt
-    |-- example_1_6.txt
-    |-- example_1_7.txt
-    |-- example_1_8.txt
-    |-- example_1_9.txt
-    |-- ZZ1.txt
-    |-- ZZ2.txt
-    |-- ZZ3.txt
-    |-- ZZ4.txt
-    |-- ZZ4_date.txt
-    |-- ZZ5.txt
-    |-- ZZ5_X.txt
+![](https://github.com/meiyulee/MathGPT/blob/main/_pics/filestructure.png?raw=true)
 
 ## 它能做什麼
 
@@ -149,6 +81,17 @@ C:\lines_combined
 
 ## 案例
 
+![](https://github.com/meiyulee/MathGPT/blob/main/_pics/slide9.JPG?raw=true)
+
+![](https://github.com/meiyulee/MathGPT/blob/main/_pics/slide10.JPG?raw=true)
+
+![](https://github.com/meiyulee/MathGPT/blob/main/_pics/slide11.JPG?raw=true)
+
+![](https://github.com/meiyulee/MathGPT/blob/main/_pics/slide12.JPG?raw=true)
+
+![](https://github.com/meiyulee/MathGPT/blob/main/_pics/slide13.JPG?raw=true)
+
+![](https://github.com/meiyulee/MathGPT/blob/main/_pics/slide14.JPG?raw=true)
 
 
 ## 注意事項
