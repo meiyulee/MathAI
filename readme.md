@@ -2,7 +2,7 @@
 
 ![](https://img.shields.io/badge/released%20date-March%202023-success) ![](https://img.shields.io/badge/language-C-success) ![](https://img.shields.io/static/v1?label=Function&message=Numerical%20modelling&color=yellow) ![](https://img.shields.io/static/v1?label=used%20way&message=right%20to%20use%20the%20Content%20for%20non-commercial%20purposes&color=yellow)
 
-<b><font color="red">免費單機軟體，可供學術研究和非商業用途使用</font></b>
+<b><font color="red">免費單機Windows版軟體，可供學術研究和非商業用途使用</font></b>
 
 為數字而生   做到數字的數學建模   人工智能海量選擇最佳數學模式
 
