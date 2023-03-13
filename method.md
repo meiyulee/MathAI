@@ -99,6 +99,7 @@ $$
 $$
 
 設定新的殘差為
+
 $$
 residual^{**} = \frac{residual}{the estimated |residual|} \\
 $$
