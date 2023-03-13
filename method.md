@@ -115,3 +115,24 @@ $\varepsilon_{t}=K(\varepsilon_{t-1})+u_{t}$
 其中， $t = 2, 3, ...,n=$ 樣本順序。 $K(\bullet)$ 可為直線模式、非直線模式、曲線化直線模式。但我們其實無法得到誤差值，只能得到殘差值。所以模型改為
 
 $e_{t}=K(e_{t-1})+u_{t}$
+
+---
+
+1. 有關多線段法建模方法和應用，請參考
+
+  - Wang, K.W., Wang, K.S., Lee, M.Y., 2023, *Accurate New Stock Analytic Model: Ability over moving average*, sold at the [Amazon ebook store](https://www.amazon.com/dp/B0BS2XS8NM/).
+  - Lee, M.Y., 2022, Line-combined Method and Trend Dynamics, manuscript on ResearchGate. https://doi.org/10.13140/RG.2.2.22765.05603
+  - Lee, M.Y., 2022, 道瓊工業指數急速拉升的建模方法可行性, manuscript on ResearchGate. https://doi.org/10.13140/RG.2.2.26233.54885/1
+  - Lee, M.Y., 2022, Analyze Alphabet Closes from 7/1/2021~9/30/2022, using Regression model, manuscript on ResearchGate. https://doi.org/10.13140/RG.2.2.28645.27363
+
+
+2. 有關變異數異質性模型
+
+  - Chih-Wen Hsiao, Ya-Chuan Chan*, Mei-Yu Lee, Hsi-Peng Lu, 2021, Heteroscedasticity and Precise Estimation Model Approach for Complex Financial Time-Series Data: An Example of Taiwan Stock Index Futures before and during COVID-19, Mathematics, 9(21), 2719.
+
+  - 王冠先、李玫郁，「統計學不能做為大數據分析的工具-原因與補正」，機統股份有限公司出版，2019年。[博客來網路書店](https://www.books.com.tw/products/0010844752)
+
+3. AR(1)誤差模型如何在精準建模中使用，請參考
+
+  - 王冠先、李玫郁，「統計學不能做為大數據分析的工具-原因與補正」，機統股份有限公司出版，2019年。[博客來網路書店](https://www.books.com.tw/products/0010844752)
+  - Lee, M.Y., 2022, *Demythologize Durbin-Watson Test Statistic: From the analysis of the sampling distribution, critical values and affected factors*, sold at the [Amazon ebook store](https://www.amazon.com/dp/B09QT7YF1S/)
