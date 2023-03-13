@@ -110,14 +110,8 @@ $i = 1, 2, ..., n$。
 
 模型設計如下：
 
-$$
+$\varepsilon_{t}=K(\varepsilon_{t-1})+u_{t}$
 
-The improved autoregressive error model,
-The model,
-error(t)=the lines combined (error(t-1))+u(t),
-t=2,3,….,n=the sampling order,
-the residual analysis model,
-residual(t) =the lines combined (residual(t-1))+u(t),
-t=2,3,….,n=the sampling order,
-there are three lines combined methods,
-the simple linear model based on lines combined,
+其中，$t = 2, 3, ...,n=$樣本順序。$K(\bullet)$可為直線模式、非直線模式、曲線化直線模式。但我們其實無法得到誤差值，只能得到殘差值。所以模型改為
+
+$e_{t}=K(e_{t-1})+u_{t}$
