@@ -1,1 +1,1 @@
-          all data number=250
+          all data number=400
