@@ -1,1 +1,0 @@
-set path=c:\Program Files\Java\jdk1.8.0_121\bin;c:\Program Files\Java\jdk1.8.0_144\bin;
