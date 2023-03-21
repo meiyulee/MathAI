@@ -37,7 +37,7 @@ This software aims to become a superior tool solving the problems of finding a m
 2. **Modelling tools for professionals** - Tool of mathematical modelling of the numbers, for professionals such as science, commerce, engineering, medicine, agriculture, and so on.
 3. **Optimization of mathematical model by artificial intelligence** - Automatically check the mathematical models of numbers, and determine how many mathematical models are needed to achieve optimization to form a model of a number set.
 4. **Massive Mathematical Function** - In the modeling process, AI selects the best model that conforms to the numbers from the massive mathematical functions or models.
-5. **Being a mathematical model, non-regression analysis** - improved from regression analysis to the accurate mathematical modeling for numbers.
+5. **Being a mathematical model, non-regression analysis** - improved from regression analysis to the accurate mathematical modeling for numbers and it becomes a new method - lines combined method.
 6. **Checking the correction of operation results** - Save the operation results such as the results of mathematical model and estimated value. You can import it into Excel to watch graphics.
 7. **You can manually set the conditions that you want AI to judge** - The selection process of the mathematical model for numbers needs two parameter setting. One is "the difference R2". If the explanatory power decreases over the set value, the software will automatically run a new estimation. Second is "the minimum number". The second parameter determines the minimum data size required for each line to re-estimate. The latter can also be handed over to AI for judgement, so that data can speak its own regularity and key signals.
 
