@@ -71,7 +71,7 @@ This is installation-free software. When you download it, drag the 【 lines com
 
 ## Before running requirement
 
-**Java environment (JRE) with Java 8 or above must be installed on the computer before using the Java version of MathGPT for Numerical modelling software.**
+**Java environment (JRE) with Java 8 or above must be installed on the computer of Windows operatiing system before using the Java version of MathAI for Numerical modelling software.**
 
 ## Structure table of the folder
 
