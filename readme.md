@@ -65,9 +65,9 @@
 
 ## 安裝條件
 
-使用Java版的MathGPT for Numerical modelling軟體前，<b><font color="brightgreen">電腦需先安裝 Java 8 或以上之Java環境(JRE)</font></b>。
+使用Java版的MathAI for Numerical modelling軟體前，<b><font color="brightgreen">Windows作業系統電腦需先安裝 Java 8 或以上之Java環境(JRE)</font></b>。
 
-## MathGPT for numerical modelling (Java版) 的文件夾結構表
+## MathAI for numerical modelling (Java版) 的文件夾結構表
 
 ![](https://github.com/meiyulee/MathGPT/blob/main/_pics/filestructure.png?raw=true)
 
