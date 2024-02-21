@@ -44,7 +44,8 @@
 ## 下載方式
 
 1. Clone 上方程式碼到電腦
-2. 上One drive的網址連結下載 https://tinyurl.com/mathgpt202303
+2. 直接從【<>Code】按鈕那，點擊【Download ZIP】 (**推薦**)
+3. 上One drive的網址連結下載 https://tinyurl.com/mathgpt202303 (**不推薦**)
 
 ## 安裝方式
 
@@ -69,7 +70,7 @@
 
 ## MathAI for numerical modelling (Java版) 的文件夾結構表
 
-![](https://github.com/meiyulee/MathGPT/blob/main/_pics/filestructure.png?raw=true)
+<div align=center><img src="https://github.com/meiyulee/MathGPT/blob/main/_pics/filestructure.png?raw=true" width="30%"></div>
 
 ## 它能做什麼
 
@@ -84,21 +85,28 @@
 
 ## 案例
 
-![](https://github.com/meiyulee/MathGPT/blob/main/_pics/slide9.JPG?raw=true)
+<div align=center><img src="https://github.com/meiyulee/MathGPT/blob/main/_pics/slide9.JPG?raw=true" width="50%"></div>
 
-![](https://github.com/meiyulee/MathGPT/blob/main/_pics/slide10.JPG?raw=true)
+<div align=center><img src="https://github.com/meiyulee/MathGPT/blob/main/_pics/slide10.JPG?raw=true" width="50%"></div>
 
-![](https://github.com/meiyulee/MathGPT/blob/main/_pics/slide11.JPG?raw=true)
+<div align=center><img src="https://github.com/meiyulee/MathGPT/blob/main/_pics/slide11.JPG?raw=true" width="50%"></div>
 
-![](https://github.com/meiyulee/MathGPT/blob/main/_pics/slide12.JPG?raw=true)
+<div align=center><img src="https://github.com/meiyulee/MathGPT/blob/main/_pics/slide12.JPG?raw=true" width="50%"></div>
 
-![](https://github.com/meiyulee/MathGPT/blob/main/_pics/slide13.JPG?raw=true)
+<div align=center><img src="https://github.com/meiyulee/MathGPT/blob/main/_pics/slide13.JPG?raw=true" width="50%"></div>
 
-![](https://github.com/meiyulee/MathGPT/blob/main/_pics/slide14.JPG?raw=true)
+<div align=center><img src="https://github.com/meiyulee/MathGPT/blob/main/_pics/slide14.JPG?raw=true" width="50%"></div>
 
+## 影片
+
+- [非線性模型 | 例1與例2](https://youtu.be/TxUYNjQJjWw?si=MWzWnd4mKlQwxTIK)
+- [非線性模型 | 例3與例4](https://youtu.be/m4Y05pzGOxw?si=bnsJz5OGwxGWDGQw)
+- [非線性模型 | 例5與例6](https://youtu.be/oD9pY-dpSBg?si=6aX2rvTGNz8tJXLV)
+- [AI數據分析應用 | YT的撥放清單](https://www.youtube.com/playlist?list=PLo5HwX3nUTSMByrjiIIUoRPiZ6ttcDYII)
 
 ## 注意事項
 
 - 軟體的terminal如果無法關閉，請使用工作管理員直接結束工作。
+- 選單視窗內如果沒有出現任何選單說明，請將視窗放到最大，即可看到選單內容。
 - 軟體有任何問題，請電郵 prsimulated@gmail.com
 - 如需要其他數字驅動的客製化數學模型，請洽 prsimulated@gmail.com
