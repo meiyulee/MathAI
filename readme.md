@@ -99,5 +99,9 @@
 
 - 軟體的terminal如果無法關閉，請使用工作管理員直接結束工作。
 - 選單視窗內如果沒有出現任何選單說明，請將視窗放到最大，即可看到選單內容。 (2024/02/21發現電腦Windows作業系統更新微軟更新後有此問題)
+- Windows作業系統下載後如果在點擊視窗過程中跳出「安全性」視窗，請到【網際網路選項】中開啟【啟動應用程式及不安全檔案】
+  
+  ![](https://github.com/meiyulee/MathAI/blob/main/_pics/download_internet_safety_setting.png)
+  
 - 軟體有任何問題，請電郵 prsimulated@gmail.com
 - 如需要其他數字驅動的客製化數學模型，請洽 prsimulated@gmail.com
